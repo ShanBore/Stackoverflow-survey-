@@ -1,4 +1,4 @@
-As part of our second project we are going to work on Visualizations. Our task is to analyze the data, clean it, modify it as and when required and represent it in the form of graphs, charts, plots, which are more appealing to users.
+As part of this project we are going to work on Visualizations. Our task is to analyze the data, clean it, modify it as and when required and represent it in the form of graphs, charts, plots, which are more appealing to users.
 
 
 
